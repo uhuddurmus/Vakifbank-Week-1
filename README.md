@@ -15,3 +15,29 @@ Model Binding: Demonstrate model binding capabilities by showcasing examples of 
 Bonus Challenge: Go beyond the standard CRUD operations by adding additional functionalities such as listing and sorting. For example, consider implementing endpoints like /api/products/list?name=abc to demonstrate advanced API features.
 
 By completing this assignment, you will gain practical experience in building a well-structured and standards-compliant RESTful API using .NET. To get started, make sure you have the Swashbuckle.AspNetCore package installed and set up in Visual Studio 2022.
+
+
+in request body we need 
+
+{
+  "interestRate": 0,
+  "principal": 0,
+  "maturity": 0,
+  "maturityPeriod": 0
+}
+
+as input.
+
+return is look like;
+
+{
+    CompoundInterest = ***,
+    InterestRate = ***
+    TotalMoneyValue = ***
+}
+
+here some swagger examples.
+
+![alt text](https://raw.githubusercontent.com/uhuddurmus/Vakifbank-Week-1/main/1.png)
+![alt text](https://raw.githubusercontent.com/uhuddurmus/Vakifbank-Week-1/main/2.png)
+![alt text](https://raw.githubusercontent.com/uhuddurmus/Vakifbank-Week-1/main/3.png)
