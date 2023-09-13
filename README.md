@@ -38,6 +38,6 @@ return is look like;
 
 here some swagger examples.
 
-![alt text](https://raw.githubusercontent.com/uhuddurmus/Vakifbank-Week-1/main/1.png)
+![alt text]([https://raw.githubusercontent.com/uhuddurmus/Vakifbank-Week-1/main/1.png](https://raw.githubusercontent.com/uhuddurmus/Vakifbank-Week-1/main/1png.png))
 ![alt text](https://raw.githubusercontent.com/uhuddurmus/Vakifbank-Week-1/main/2.png)
 ![alt text](https://raw.githubusercontent.com/uhuddurmus/Vakifbank-Week-1/main/3.png)
