@@ -14,7 +14,14 @@ namespace RestfulApi.Controllers
         {
             new Product { Id = 1, Name = "Product 1", Price = 10.99 },
             new Product { Id = 2, Name = "Product 2", Price = 19.99 },
-            // Add more products here
+            new Product { Id = 3, Name = "Product 3", Price = 19.99 },
+            new Product { Id = 4, Name = "Product 4", Price = 19.99 },
+            new Product { Id = 5, Name = "Product 5", Price = 19.99 },
+            new Product { Id = 6, Name = "Product 6", Price = 19.99 },
+            new Product { Id = 7, Name = "Product 7", Price = 19.99 },
+            new Product { Id = 8, Name = "Product 8", Price = 19.99 },
+            new Product { Id = 9, Name = "Product 9", Price = 19.99 },
+            new Product { Id = 10, Name = "Product 10", Price = 19.99 },
         };
 
         // HTTP GET request to retrieve all products
